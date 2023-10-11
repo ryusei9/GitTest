@@ -5,7 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello GitHub\n";
+    std::cout << "Hello GitHub!\n";
+
+    std::cout << "LC1C_17_サトウ_リュウセイ\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
